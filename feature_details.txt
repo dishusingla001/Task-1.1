@@ -8,5 +8,5 @@ The next task I am doing in this project is to create more branch and then
 learn how to handle the conflicts during the merging. 
 
 
-new learning from project - How to Handle a Conflict manually 
+New learning from project - How to Handle a Conflict manually 
 
