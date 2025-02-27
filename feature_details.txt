@@ -1,0 +1,5 @@
+This is Another Feature Detail file in the main branch.
+
+basically this file is made to handle the conflict 
+
+new learning from project - How to Handle a Conflict manually 
