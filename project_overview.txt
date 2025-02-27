@@ -15,4 +15,4 @@ At the Last I have to use the basic commands of git like (git log --oneline)
 to check the commit history 
 
 I am Learned many new skills of git and git-hub from this project under the guidance of 
-mam preeti sharma.
+mam preeti Sharma.
